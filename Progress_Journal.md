@@ -5,7 +5,7 @@
 4/11/2022: Completed proposal and decided on multiple features. Decided on removing Boarding Pass display and replaced it with price discrimination.
 
 4/19/2022: Switched ISP to visualising my Unit 4 Task of a calculator into java swing. Here is what I started working with:\
-![](/starting.png)
+![](Images/starting.png)
 
 4/21/2022: I statred exprimenting more with creating classes and constructors, as well as the Graphics class of java swing. Created a visual display for graphing and changed button to display. Also rewrote the proposal. This is a snippet of my Graphing class: 
 ```java
@@ -57,15 +57,15 @@ Did some research on OOPs and computing mathematical constants.
 4/24/2022: Worked on how to design the function interface and passing parameters through constructors. Researched more on OOPs and graphing.
 
 4/26/2022: Completed Pythagorean button's individual features and researched more about computation and OOPs classes. Here is an example of the pythagorean button. Here it is:
-![](/pytahg.png)
+![](Images/pytahg.png)
 
 4/27/2022: Researched how to compute Pi in java and completed the Pi estimation button. Used random number generator and a mathematical formula to find it. Here is the formula:
 
 4/28/2022: Researched how to compute Euler's number in java and completed the Euler estimation button. Began work on Sieve of Eratosthenes and creating images for pythagorean display.
 
 4/29/2022: Learned how to use packages in Java and completed a working Sieve of Eratosthenes button to find primes. Also started working on the graphing features of the program. Added pictures to the pytagorean theorum graph as well. Here is a quick look at my graphing interface:
-![](/func_choose.png)
-![](/graph_example.png)
+![](Images/func_choose.png)
+![](Images/graph_example.png)
 
 4/30/2022: Almost completed the final calculator model. Having trouble graphing logarithmic graphs, and tangent graphs look odd. Also working on the learning button for the funcs frame. There is a problem where some JFrames don't update.
 
