@@ -1,25 +1,15 @@
 /*
 name: Jason Tang
-date: 2022.05.11
+date: 2022.08.10
 program name: JASON'S ULTIMATE CALC
 */
 
-import java.io.*;
 import java.awt.*;
-import java.awt.event.ComponentEvent;
-import java.awt.event.ComponentListener;
-import java.awt.geom.Line2D;
-import java.awt.geom.Point2D;
-import java.awt.geom.Rectangle2D;
-import java.awt.image.BufferedImage;
-import javax.swing.JComponent;
 import javax.swing.JFrame;
 import javax.swing.*;
 import java.awt.event.*;
 import java.util.*;
-import java.lang.*;
 import javax.script.*;
-import java.math.BigDecimal;
 import org.math.plot.*;
 
 class Main {
